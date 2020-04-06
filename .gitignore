@@ -1,0 +1,19 @@
+/*
+
+/*/
+
+!.gitignore
+!README.md
+
+# Include the main folders needed
+!Field Of View/
+!docs/
+!docfx/
+
+# Ignore everything inside project folder
+Field Of View/*
+
+# Select which folders become included
+!Field Of View/Assets/
+!Field Of View/ProjectSettings/
+!Field Of View/Packages/

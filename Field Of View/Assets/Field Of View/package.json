@@ -1,0 +1,13 @@
+{
+  "name": "com.open.field-of-view",
+  "displayName": "Field Of View",
+  "author": "Jak Hussain",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "Visual field of view mechanic for stealth games and stuff like that.",
+  "keywords": [
+    "Open Source",
+    "Module"
+  ],
+  "category": "Open Source"
+}

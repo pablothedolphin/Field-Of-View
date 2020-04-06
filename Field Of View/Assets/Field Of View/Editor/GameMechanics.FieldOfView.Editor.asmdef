@@ -1,0 +1,17 @@
+{
+    "name": "GameMechanics.FieldOfView.Editor",
+    "references": [
+        "GUID:7885f1f453573214abea882bf1cff3a6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
